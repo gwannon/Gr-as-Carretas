@@ -1,7 +1,7 @@
 
 # G&C Historias tras unas cervezas
 
-Versión 0.1
+Versión |VERSION|
 
 [Licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
 
@@ -45,7 +45,19 @@ xxx
 
 \salto
 
+## El carruaje del vampiro
+
+Little Barovia, el barrio baroviano de la ciudad, siempre está cubierto de una espesa niebla. Sus gentes son hurañas y desconfiadas y siempre hay violinista tocando tristes tonadas, pero es un buen sitio para cazar carruajes góticos de cazavampiros mal estacionados.
+
+xxx
+
 \salto
+
+## La noche de Saturnalia
+
+La noche de Saturnalia todes les gruistes se lanzan a la caza de una presa de gran valor, el carro de Papa Noel.
+
+xxx
 
 \salto
 

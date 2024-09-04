@@ -7,9 +7,8 @@ $tags = [
   'HASH' => date("YmdHis"),
   'TITLE' => "Grúas&Carretas: Ordenanza municipal sobre carros y monturas",
   'DESCRIPTION' => 'Grúas&Carretas (G&C) es un juego de rol para 4 personas donde eres une empleade del ayuntamiento de una ciudad de un RPG medieval fantástico que se encarga de llevarse carros, carretas y monturas indebidamente aparcadas.',
-  'VERSION' => "0.1",
+  'VERSION' => "0.2",
   'AUTHOR' => "@Gwannon",
-
   'BGCOLOR1' => "#359138",
   'BGCOLOR2' => "#18b91d",
   'BGCOLOR3' => "#0f6d13",

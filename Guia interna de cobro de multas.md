@@ -1,6 +1,6 @@
 # G&C Guía interna de cobro de multas
 
-Versión 1.1
+Versión |VERSION|
 
 [Licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
 
