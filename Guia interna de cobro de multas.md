@@ -8,9 +8,7 @@ Versión 1.1
 
 En esta guía interna encontrarás todo lo necesario para dirigir a tu mesa divertidas aventuras.
 
-Aquí tienes un bestiario, un listado de carros y monturas para meter en tus partidas y tesoros y objetos mágicos que tus gruistes pueden encontrar.
-
-Por último, también tienes unas cuantas semillas de aventuras.
+Aquí tienes un bestiario, un listado de carros y monturas para meter en tus partidas y tesoros y objetos mágicos que tus gruistes pueden encontrar. Por último, también tienes unas cuantas semillas de aventuras.
 
 ## Bestiario 
 Todos los seres de este bestiario vienen con un código con sus atributos con el siguiente formato (Fortaleza/Maña/Magia).
@@ -18,13 +16,15 @@ Todos los seres de este bestiario vienen con un código con sus atributos con el
 En su descripción puede haber reglas especiales y tontunadas para fastidiar a tus gruistes.
 
 ### Mimicarreta (3/3/2)
-Mímico con forma de carreta. Una tirada de Magia exitosa permite identificarlo y evitarlo. Tiene DA 5 y una multa de 150mo, ya que es un vehículo también. 
+Mímico con forma de carreta. Una tirada de Magia exitosa permite identificarlo y evitarlo. Tiene DA 5 y una multa de 150 mo, ya que es un vehículo también. 
 
 ### Aparcacoches goblin/kobold (1/1/1)
 Por un arranque seco o una rata en palo te cuida tu vehículo. Normalmente van en grupo.
 
 ### Guardia de la ciudad (2/2/2)
 Puedes mejorar en 1 punto uno de sus atributos.
+
+\salto
 
 A priori, ver a la guardia de la ciudad supone que te has quedado sin multa, pero pueden ocurrir situaciones en que puedas enfrentarte a ellos como al discutir temas de jurisdicciones o si la guardia deja mal aparcadas sus monturas.
 
@@ -40,22 +40,26 @@ No pueden hablar, ni pueden ser neutralizados hablando. Tampoco pueden hacer acc
 ### Liche de la mazmorra municipal (5/5/5)
 Cada mañana cuando entra a currar en la mazmorra municipal deja aparcado su carruaje esquelético a la entrada del dungeon que es un vado permanente. Siempre va acompañado por 3 zombis de PJ que ha matado ese día.
 
-### Troll guardián del deposito municipal (6/2/0)
-No es un lumbreras pero protege muy bien el depósito municipal de vehículos. No puede cogérsele por sorpresa en el depósito.
+### Troll guardián del depósito municipal (6/2/0)
+No es un lumbreras, pero protege muy bien el depósito municipal de vehículos. No puede cogérsele por sorpresa en el depósito.
 
 ## Vehículos mal aparcados
 
 En las calles de un gran burgo puedes encontrar todo tipo de vehículos y monturas mal aparcadas.
 
 ### Barco volador (DA 8/200 mo)
-Está gigantesca nave voladora es difícil de mover. En vez de venir la guardia de la ciudad aparecerán les guardacostes. En ese caso se puede intentar discutir si el valor de las multas se lo llevan elles o tu mesa. Es un tema de jurisdicciones.
+Está gigantesca nave voladora es difícil de mover. En vez de venir la guardia de la ciudad aparecerán les guardacostes.
+
+\salto
+
+En ese caso se puede intentar discutir si el valor de las multas se lo llevan elles o tu mesa. Es un tema de jurisdicciones.
 
 ### Carruaje esquelético (DA 6/200 mo)
 Este gótico carruaje negro como la noche está tirado por 4 caballos esqueletos. Es inmaterial y se usa Magia en vez de Maña para poner/quitar ganchos.
 
 ### Limo ácido con goblins dentro (DA 5/150 mo)
-Normalmente no tienen dueño, simplemente aparecen, pero como tiene goblins y otros seres dentro tratarán de encalomartelo como vehículo.
-Cada vez que pongas un gancho tira un d6 si sacas 1 pierdes un punto de atributo al azar ya que el ácido del limo ha estropeado tu equipo.
+Normalmente no tienen dueño, simplemente aparecen, pero como tiene goblins y otros seres dentro tratarán de encalomártelo como vehículo.
+Cada vez que pongas un gancho tira un d6 si sacas 1 pierdes un punto de atributo al azar, ya que el ácido del limo ha estropeado tu equipo.
 Si quieres los goblins pueden nadar dentro del limo y quitar ganchos que hayan puesto.
 
 ### Carruaje mágico superior (DA 5/200 mo)
@@ -66,17 +70,19 @@ Debería tener algún extra mágico como unas cabalgaduras inteligentes que pued
 Estamos hablando de vehículos mágicos que no afecten a su arrastre como carruajes calabaza, carrozas automotrices, etc.
 Puedes ponerles reglas locas como que si es una carroza de cenicienta se convierta en calabaza y no les paguen por la multa, pero si por ganar el concurso anual de cultivo de calabaza.
 
-### Montura fantástica (DA 3/150mo)
-Cualquier montura magica de mundos de fantasía como unicornios, huargos, chocobos, velociraptors, etc.
+### Montura fantástica (DA 3/150 mo)
+Cualquier montura mágica de mundos de fantasía como unicornios, huargos, chocobos, velociraptores, etc.
 
-### Carro embrujado (DA 2/100mo)
+### Carro embrujado (DA 2/100 mo)
 El carro está embrujado o tiene gremlins que hacen fallar directamente una tirada de un PJ por ronda de bronca. Una tirada de Magia detectará los gremlins y con otra acción de Magia con dos éxitos podrán expulsarlos.
 
-### Carro normal (DA 2/100mo)
+\salto
+
+### Carro normal (DA 2/100 mo)
 Un simple carro de un comerciante o campesino.
 
 ### Montura normal (DA 1/100 mo)
-Caballo, mula, camello, etc 
+Caballo, mula, camello, etc.
 
 ## Tesoros
 
@@ -96,7 +102,11 @@ Este cono naranja y blanco está imbuido de una poderosa magia que hace que nadi
 Si lo pones en tu carro señala la dirección donde hay carros y monturas mal aparcadas. Da un +1 a cualquier tipo de tirada para encontrar vehículos indebidamente estacionados.
 
 ### Cepo de la inmovilidad de Tou
-Este cepo mágico se pone en las ruedas o similar de un vehículo mal estacionado y permite cobrar una multa sin tener que llevarse el vehículo. Para ponerlo, el vehículo debe estar desatendido (ver sorpresa) y deberás pasar una tirada de Magia con tantos éxitos como el DA del vehículo o montura. Una vez lo pongas no lo recuperas hasta mejorar tu equipo al conseguir 500 mo. Le empleade públique te lo devolverá de buena gana. A elle no le sirve de nada.
+Este cepo mágico se pone en las ruedas o similar de un vehículo mal estacionado y permite cobrar una multa sin tener que llevarse el vehículo. Para ponerlo, el vehículo debe estar desatendido (ver sorpresa) y deberás pasar 
+
+\salto
+
+una tirada de Magia con tantos éxitos como el DA del vehículo o montura. Una vez lo pongas no lo recuperas hasta mejorar tu equipo al conseguir 500 mo. Le empleade públique te lo devolverá de buena gana. A elle no le sirve de nada.
 
 ### Camisote de luz.
 Este camisote de malla mágico luce de noche como una antorcha y te deja las manos libres.
@@ -108,7 +118,7 @@ Se colocan en tu vehículo de arrastre y quedan muy bonitas. En realidad es un o
 Veamos algunas ideas para aventuras.
 
 ### La nueva estatua
-Elle burgomaestre quiere hacerse una nueva efigie y presiona a tus PJ para que pongan más multas para pagarla. Pero se llevan sin querer el carro de les canteres. Si no lo recuperan no pueden  construir la estatua. Deberán ir al depósito municipal de monturas y carros y llevarse el carro custodiado por un troll y devolvérselo a les canteres.
+Elle burgomaestre quiere hacerse una nueva efigie y presiona a tus PJ para que pongan más multas para pagarla. Pero se llevan sin querer el carro de les canteres. Si no lo recuperan no pueden construir la estatua. Deberán ir al depósito municipal de monturas y carros y llevarse el carro custodiado por un troll y devolvérselo a les canteres.
 
 ### El concierto
 Las brujas de Macbeth van a dar un concierto, montones de mages acuden a la ciudad con sus estrambóticas monturas y carruajes.
@@ -118,12 +128,14 @@ Una compañía mercenaria de retirada de monturas y vehículos mal aparcados ha 
 
 Quién consiga más multas en un día se quedará con el servicio de grúa del burgo.
 
+\salto
+
 ### La mazmorra
 El liche de la mazmorra municipal está en racha y ha matado a todos los grupos de aventureres que han entrado. El problema es que hay un montón de carros entorpeciendo la entrada del dungeon.
 
 Están protegidos por un montón de zombies que nadie sabe de dónde han salido y que no paran de repetir "Estabaapuntodesubirdeniveeeellll" o "Dondeestamiespadamasdos"
 
-Deben tener cuidado porque si se llevan la montura esquelética del liche saldrá muy mosqueado a recuperar su montura e igual acaben convertidos en zombies..
+Deben tener cuidado porque si se llevan la montura esquelética del liche saldrá muy mosqueado a recuperar su montura e igual acaben convertidos en zombies.
 
 ### El limo
 Alguien ha dejado un limo monstruoso mal aparcado y es el tercer goblin que se traga, aunque están dentro nadando sin problemas. Tus PJ deberán negociar con la guardia quien es el responsable de quitarlo. La guardia dice que es vehículo porque hay goblins dentro.
@@ -131,25 +143,9 @@ Alguien ha dejado un limo monstruoso mal aparcado y es el tercer goblin que se t
 Si no ponen de acuerdo deberán ir al ayuntamiento y revisar las leyes de la ciudad a ver qué dicen.
 
 ### Agujero legal
-Une mage avispade y muy poderose ha puesto una espuelas de céfiro a su montura y está volando a un metro sobre el suelo con lo que legalmente no está mal aparcado. Si consiguen que toque el suelo podrán llevárselo o el suelo toque a la montura, pero mientras siga volando está fuera de su jurisdicción.
+Une mage avispade y muy poderose ha puesto unas espuelas de céfiro a su montura y está volando a un metro sobre el suelo con lo que legalmente no está mal aparcado. Si consiguen que toque el suelo podrán llevárselo o el suelo toque a la montura, pero mientras siga volando está fuera de su jurisdicción.
 
 ### Favor divino
 La diosa Tou ha enviado a une de sus paladines a vuestra ciudad. Debe decidir si sois o no dignos de recibir sus dones, el cepo de la inmovilidad.
 
 Para ello les hará pasar estúpidas pruebas como ganarle bebiendo (tiradas de Fortaleza) o sabiéndose las sagradas escrituras, es decir, las leyes municipales de circulación y estacionamiento.
-
-### El gancho único
-
-Un kobold callejero, al que pagáis para que busque carros más estacionados, llega corriendo con grandes noticias.
-
-Ha encontrado un caballo rohirrim, un corcel élfico, un jabalí de guerra enano y varios perros de monta para medianos a las puertas de la "Taberna del poni pisador". Eso puede ser mucha pasta en multas.
-
-Si esperan cerca aparecerán un grupo de 5 espectros con sus monturas espectrales qué parecen perseguir al otro grupo.
-La cara que se les va a quedar a los espectros cuando vuelvan y no tengan montura.
-
-  
-
-
-
-
-
