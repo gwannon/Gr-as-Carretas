@@ -18,7 +18,7 @@ Ha encontrado un caballo rohirrim, un corcel élfico, un jabalí de guerra enano
 ### Remolque de monturas
 
 * **Monturas variadas (DA 7/150 mo):** Los caballos, el jabalí y los perros no paran de moverse así que no pueden poner más de 2 ganchos por turno.
-* **Duro montaraz (2/2/1)**
+* **Duro montaraz (2/1/1)**
 * **Ágil elfo (1/2/1)**
 * **Rudo enano (3/1/0)**
 * **Escurridizos medianos (0/1/0)** solo pueden pensar en recenar, beber, cantar y bailar. Cada turno tira d6, si sale par no actúan, están dentro de la taberna pidiendo comida y bebida.
@@ -27,9 +27,9 @@ Si consiguen llevarse las monturas, ese peculiar grupo de viajeros tendrá que i
 
 \salto
 
-Si revisan las alforjas y pasan la tirada de Magia, solo encontrarán un anillo de ori roñoso, alguna baratija familiar.
+Si revisan las alforjas y pasan la tirada de Magia, solo encontrarán un anillo de oro roñoso, alguna baratija familiar.
 
-**Anillo roñoso:** Otorga un +1 Magia si alargas las eses de tu frases.
+**Anillo roñoso:** Otorga un +1 Magia si alargas las eses de tus frases.
 
 ## El gancho único II
 
@@ -38,6 +38,7 @@ Si deciden devolver el anillo roñoso, la extraña compañía se paga unas birra
 Sea como sea, si deciden quedarse a tomar algo, aparecerá un grupo de espectros con sus monturas espectrales qué parecen perseguir a la compañía. Uno de los espectros ha dejado su montura sin ticket de aparcamiento porque no tenía cambió.
 
 ### Montura sin ticket
+
 * **Montura espectral (DA 5 / 150 mo)** Es medio mágico y para quitar o poner un gancho hay que hacerlo con Magia en vez de Maña y sacar dos éxitos
 * **Espectro del anillo (0/0/0)** Les da d3 turnos de sorpresa, debe estar ocupado en otras cosas y no está atento a la grúa.
 
@@ -59,24 +60,30 @@ El señoro del mal de algún sitio lejano ha sido derrotado
 
 xxx
 
+
+\salto
+
 ## La maldición del carruaje del vampiro
 
 Little Barovia, el barrio baroviano de la ciudad, siempre está cubierto de una espesa niebla. Sus gentes son hurañas y desconfiadas y siempre hay violinistes tocando tristes tonadas, pero es un buen sitio para cazar carruajes góticos de cazavampires mal estacionados.
 
+La cocina baroviana peca de usar mucho ajo y hay que pasar una tirada de Fortaleza para poder probar las delicias culinarias locales. Conseguirán de esta forma un horrible aliento a ajo.
+
+El aliento de ajo permite un nueva acción contra vampires, **Echar el aliento**. Si echas tu aliento de ajo (tirada de Maña con exito) a un vampire, este pierde 2 puntos en todos sus atributos hasta tu siguiente turno. Los negativos no se acumulan si hay varios alientos solo alargan la duración.
+
 Bien entrada la noche un carruaje negro se moverá por sus calles y lo aparcarán cerca de xxx.
 
-Si revisan el carruaje, los caballos zombies que tiran de él no llevan pañal. Lo curioso es que las animales de tiro zombies no cagan, pero siguen estando obligados a llevarlos. Es un agujero legal que siempre funciona con nigronamentes y demás.
-xxx
+Si revisan el carruaje, los caballos zombies que tiran de él no llevan pañal. Lo curioso es que las animales de tiro zombies no cagan, pero siguen estando obligados a llevarlos. Es un agujero legal que siempre funciona con nigromantes y demás.
 
-* **Carruaje negro (DA 6/250 mo)** 
-* **Conde vampiro con extraño acento (5/3/6)** En vez de Hablar puede usar su Mirada Hipnótica y usar Magia en vez de fortaleza. Debes señalar con una de tus vamos a tus objetivos. Si dejas de hacerlo, se rompe la hipnosis.
+### Carruajes en la niebla
+
+* **Carruaje negro (DA 6/350 mo)** 
+* **Conde vampiro con extraño acento (6/5/6)** En vez de Hablar puede usar su Mirada Hipnótica y usar Magia en vez de fortaleza. Debes señalar con una de tus vamos a tus objetivos. Si dejas de hacerlo, se rompe la hipnosis.
 * **Conductore (2/3/1)**
 
-Si consiguen llevarse el carruaje amanecerá y el conde vampiro verá  horrorizado que va a morir por no tener ningún sitio donde guarecerse de la luz solar.
+Si consiguen llevarse el carruaje, amanecerá y el conde vampiro verá horrorizado que va a morir por no tener ningún sitio donde guarecerse de la luz solar.
 
-Pueden negociar con él alguna compensación o dejarle morir por alergia a los rayos UVA.
-
-En ese caso, la niebla desaparecerá y la gente de Little Barovia saldrá a cantar y bailar para celebrar la muerte del vampiro.
+Pueden negociar con él alguna compensación o dejarle morir por alergia a los rayos UVA. En ese caso, la niebla desaparecerá y la gente de Little Barovia saldrá a cantar y bailar para celebrar la muerte del vampiro.
 
 \salto
 
@@ -86,6 +93,7 @@ La noche de Saturnalia todes les gruistes se lanzan a la caza de una presa de gr
 
 xxx
 
+
 \salto
 
 ## El aparcamiento
@@ -94,12 +102,6 @@ Desde el departamento de obras públicas no se les ha ocurrido otra idea que ada
 
 El problema es que nadie ha avisado a sus anteriores habitantes de la nueva ordenanza y siguen con sus costumbres de destripar y descuartizar a todes les que entran al ***parking municipal***. 
 
-Los empleades de obras públicas solo encargados del acondicionamiento de la mazmorra han pintado unas rayas en el suelo y pista, así que las trampas también están activas.
-
-xxx
-
-\salto
-
-## xxx
+Les empleades de obras públicas encargades del acondicionamiento de la mazmorra han pintado unas rayas en el suelo y pista, así que las trampas también están activas.
 
 xxx
