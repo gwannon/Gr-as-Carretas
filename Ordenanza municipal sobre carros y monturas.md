@@ -134,7 +134,7 @@ Te quedas en silencio muy callado sin decir ni hacer nada, dejando que tu ira se
 Si hablas en cualquier momento pierdes el bono. La única forma de declarar esta acción es poniendo dados delante de ti para marcar el bono que vas acumulando y claro mirando fijamente a todos. Cuando vayas a hacer algo deberás coger los dados y ya podrás realizar tu acción con el bonus acumulado.
 
 #### Empujar e insultar
-De repente, empujas (con señalar con el dedo basta) a tu oponente al grito de "¡Eh, tú [insulto]! ¿Qué narices estás haciendo?". Empujar anula una acción no mágica que otra persona acaba de realizar, como por ejemplo quitar un gancho. Empujar es una reacción que te permite usar tu acción antes de tu iniciativa.
+De repente, empujas (con señalar con el dedo basta) a tu oponente al grito de "¡Eh, tú [insulto]! ¿Qué narices estás haciendo?". Empujar e insultar, si pasas una tirada de Maña, permite anular una acción no mágica que otra persona acaba de realizar, como por ejemplo quitar un gancho. Es una reacción que te permite usar tu acción antes de tu iniciativa.
 
 Si ya has actuado este turno no podrás empujar. Si repites insulto también fallas. Aunque parezca caótico (cosa que se busca), un empujar e insultar puede anular otro empujar e insultar, pero no corta un quedarse mirando fijamente porque realmente no estás haciendo nada.
 
