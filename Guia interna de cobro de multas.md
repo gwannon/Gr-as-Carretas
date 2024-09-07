@@ -1,8 +1,6 @@
 # G&C Guía interna de cobro de multas
 
-Versión |VERSION|
-
-[Licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
+Versión |VERSION| - Por [|AUTHOR|](|AUTHORURL|) - [Licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
 
 ## Introducción 
 
@@ -22,7 +20,7 @@ Mímico con forma de carreta. Una tirada de Magia exitosa permite identificarlo 
 Por un arranque seco o una rata en palo te cuida tu vehículo. Normalmente van en grupo.
 
 ### Guardia de la ciudad (2/2/2)
-Puedes mejorar en 1 punto uno de sus atributos.
+Puedes, si quieres, mejorar en 1 punto uno de sus atributos para personalizarlo a tu gusto. Sería entonces algún tipo de oficial.
 
 \salto
 

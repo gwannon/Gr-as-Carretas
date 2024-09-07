@@ -9,7 +9,7 @@ $tags = [
   'DESCRIPTION' => 'En esta guía interna encontrarás todo lo necesario para dirigir a tu mesa divertidas aventuras de Grúas&Carretas.',
   'VERSION' => "1.1",
   'AUTHOR' => "@Gwannon",
-
+  'AUTHORURL' => "https://gwannon.itch.io/",
   'BGCOLOR1' => "#ff2a3b",
   'BGCOLOR2' => "#ad1b3b",
   'BGCOLOR3' => "#58041a",

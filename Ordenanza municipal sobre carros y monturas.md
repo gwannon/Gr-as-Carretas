@@ -1,8 +1,6 @@
 # G&C Ordenanza municipal sobre carros y monturas
 
-Versión |VERSION|
-
-[Licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
+Versión |VERSION| - Por [|AUTHOR|](|AUTHORURL|) - [Licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
 
 ## Introducción
 
@@ -22,9 +20,9 @@ En este juego no hay carisma, todo el mundo odia a les gruistes. Tampoco hay int
 
 Se tiran tantos d6 como el valor del atributo más adecuado. Si alguno de los dados consigue un 5 o un 6 es un éxito.
 
-\salto
-
 En caso de tiradas enfrentadas gana la tirada con más éxitos. En caso de empate el ente con el valor de atributo más alto.
+
+\salto
 
 Si tu atributo es 0, tiras un dado y solo te vale el 6.
 
@@ -61,9 +59,9 @@ Todes les gruistes rezan a Tou, la gran gruista. Ella se encarga de arrastrar el
 
 De hecho los eclipses son los pocos días que se va de vacaciones y claro el resto de divinidades la lían siempre y se dejan la luna en cualquier parte y luego pasa lo que pasa.
 
-\salto
-
 Si símbolo es un cuadrado amarillo con borde negro con un dibujo de un gancho en el centro.
+
+\salto
 
 ### Alineamiento
 
@@ -75,9 +73,9 @@ En G&C no hay experiencia ni niveles, sino multas y mejor equipamiento. Cada mon
 
 Empiezas con una mula, una cuerda y un gancho de hierro y según la gente va pagando multas por recuperar sus monturas puedes acabar con un unicornio, una cuerda de mithril y un gancho vorpalino.
 
-Para mejorar debes conseguir en multas 500 mo y las multas varían entre 100 mo y 200 mo. El valor de la multa hay que dividirlo entre el número de conductores de grúa implicades.
+Para mejorar debes conseguir en multas 200 mo y las multas varían normalmente entre 100 mo y 200 mo. El valor de la multa hay que dividirlo entre el número de conductores de grúa implicades.
 
-Cuando presentas **multas por valor de 500 mo** al personal de cobro de multas municipal, te otorgan una mejora en tu equipamiento. Si mejoras tu montura, recibes un +1 a Fortaleza. Si mejoras tus cuerdas y cinchas, recibes +1 a Maña. Por último, si mejoras tus ganchos y anclajes, tu Magia mejora 1 punto.
+Cuando presentas **multas por valor de 200 mo** al personal de cobro de multas municipal, te otorgan una mejora en tu equipamiento. Si mejoras tu montura, recibes un +1 a Fortaleza. Si mejoras tus cuerdas y cinchas, recibes +1 a Maña. Por último, si mejoras tus ganchos y anclajes, tu Magia mejora 1 punto.
 
 |Montura|Aparejos|Gancho|
 |---|---|---|

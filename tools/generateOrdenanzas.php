@@ -9,7 +9,7 @@ $tags = [
   'DESCRIPTION' => 'Grúas&Carretas (G&C) es un juego de rol para 4 personas donde eres une empleade del ayuntamiento de una ciudad de un RPG medieval fantástico que se encarga de llevarse carros, carretas y monturas indebidamente aparcadas.',
   'VERSION' => "1.1",
   'AUTHOR' => "@Gwannon",
-
+  'AUTHORURL' => "https://gwannon.itch.io/",
   'BGCOLOR1' => "#6989ff",
   'BGCOLOR2' => "#3c66ff",
   'BGCOLOR3' => "#001976",

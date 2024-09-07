@@ -1,9 +1,6 @@
-
 # G&C Historias tras unas cervezas
 
-Versión |VERSION|
-
-[Licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
+Versión |VERSION| - Por [|AUTHOR|](|AUTHORURL|) - [Licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
 
 ## Introducción
 
@@ -17,7 +14,7 @@ Ha encontrado un caballo rohirrim, un corcel élfico, un jabalí de guerra enano
 
 ### Remolque de monturas
 
-* **Monturas variadas (DA 7/150 mo):** Los caballos, el jabalí y los perros no paran de moverse así que no pueden poner más de 2 ganchos por turno.
+* **Monturas variadas (DA 7/250 mo):** Los caballos, el jabalí y los perros no paran de moverse así que no pueden poner más de 2 ganchos por turno.
 * **Duro montaraz (2/1/1)**
 * **Ágil elfo (1/2/1)**
 * **Rudo enano (3/1/0)**
@@ -35,12 +32,14 @@ Si revisan las alforjas y pasan la tirada de Magia, solo encontrarán un anillo 
 
 Si deciden devolver el anillo roñoso, la extraña compañía se paga unas birras. También puede aprovechar a tomarse unas birras en la taberna. Diles que hay Hora Feliz, nadie puede resistirse a la Hora Feliz.
 
-Sea como sea, si deciden quedarse a tomar algo, aparecerá un grupo de espectros con sus monturas espectrales qué parecen perseguir a la compañía. Uno de los espectros ha dejado su montura sin ticket de aparcamiento porque no tenía cambió.
+Sea como sea, si deciden quedarse a tomar algo, aparecerá un grupo de espectros con sus monturas espectrales qué parecen perseguir a la compañía.
+
+Uno de los espectros ha dejado su montura sin ticket de aparcamiento porque no tenía cambió. Por la matrícula es de Angmar, donde parece que no siguen las ordenanzas municipales de estacionamiento.
 
 ### Montura sin ticket
 
 * **Montura espectral (DA 5 / 150 mo)** Es medio mágico y para quitar o poner un gancho hay que hacerlo con Magia en vez de Maña y sacar dos éxitos
-* **Espectro del anillo (0/0/0)** Les da d3 turnos de sorpresa, debe estar ocupado en otras cosas y no está atento a la grúa.
+* **Espectro del anillo (5/3/5)** tiene d3 turnos de sorpresa, debe estar ocupado en otras cosas y no está atento a la grúa.
 
 La cara que se les va a quedar al espectro cuando vuelvan y no tenga montura.
 
@@ -50,16 +49,19 @@ La compañía son buena gente y su camino largo. Sin que sirva de precedente pod
 
 El otro día requisaron unas águilas gigantes y están en el depósito municipal. Quizás puedan llevárselas por el morro, pero habrá que enfrentarse al troll del depósito.
 
-xxx
-
 \salto
+
+### Águilas gigantes
+* **Águilas gigantes (DA 7/200 mo)** 
+* **Troll guardián del depósito municipal (6/2/0)** no puede cogérsele por sorpresa en el depósito.
+
+Si consiguen sacar las águilas del deposito, la compañía se despide y alza el vuelo. Van a ahorrarse muchas horas de andar.
 
 ## El gancho único IV
 
-El señoro del mal de algún sitio lejano ha sido derrotado
+El señoro del mal de algún sitio lejano ha sido derrotado.
 
 xxx
-
 
 \salto
 
@@ -69,9 +71,9 @@ Little Barovia, el barrio baroviano de la ciudad, siempre está cubierto de una 
 
 La cocina baroviana peca de usar mucho ajo y hay que pasar una tirada de Fortaleza para poder probar las delicias culinarias locales. Conseguirán de esta forma un horrible aliento a ajo.
 
-El aliento de ajo permite un nueva acción contra vampires, **Echar el aliento**. Si echas tu aliento de ajo (tirada de Maña con exito) a un vampire, este pierde 2 puntos en todos sus atributos hasta tu siguiente turno. Los negativos no se acumulan si hay varios alientos solo alargan la duración.
+El aliento de ajo permite un nueva acción contra vampires, **Echar el aliento**. Si echas tu aliento de ajo (tirada de Maña con exito) a un vampire, este pierde 2 puntos en todos sus atributos hasta tu siguiente turno. Los negativos no se acumulan. Si hay varios alientos, solo alargan la duración.
 
-Bien entrada la noche un carruaje negro se moverá por sus calles y lo aparcarán cerca de xxx.
+Bien entrada la noche un carruaje negro se moverá por sus calles y se parará cerca del colegio mayor de chiques.
 
 Si revisan el carruaje, los caballos zombies que tiran de él no llevan pañal. Lo curioso es que las animales de tiro zombies no cagan, pero siguen estando obligados a llevarlos. Es un agujero legal que siempre funciona con nigromantes y demás.
 
@@ -92,7 +94,6 @@ Pueden negociar con él alguna compensación o dejarle morir por alergia a los r
 La noche de Saturnalia todes les gruistes se lanzan a la caza de una presa de gran valor, el carro de Papa Noel.
 
 xxx
-
 
 \salto
 
