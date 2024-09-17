@@ -2,6 +2,8 @@
 
 Versión |VERSION| - Por [|AUTHOR|](|AUTHORURL|) - [Licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
 
+&nbsp;
+
 ## Introducción
 
 En este suplemento tienes aventuras que podrás en tu abrevadero favorito tomando unas buenas cervezas. Están ordenadas de menor a mayor nivel, empezando por nivel 0.
@@ -26,7 +28,7 @@ Si consiguen llevarse las monturas, ese peculiar grupo de viajeros tendrá que i
 
 Si revisan las alforjas y pasan la tirada de Magia, solo encontrarán un anillo de oro roñoso, alguna baratija familiar.
 
-**Anillo roñoso:** Otorga un +1 Magia si alargas las eses de tus frases y usas mucho el posesivo.
+**Anillo roñoso:** Otorga un +2 Magia si alargas las eses de tus frases y usas mucho el posesivo.
 
 ## El gancho único II
 
@@ -45,13 +47,13 @@ La cara que se le va a quedar al espectro cuando vuelvan y no tenga montura.
 
 ## El gancho único III
 
-La compañía son buena gente y su camino largo. Sin que sirva de precedente podríais ayudarles.
+La compañía es buena gente y su camino largo. Sin que sirva de precedente podríais ayudarles.
 
 El otro día alguien requisó unas águilas gigantes y están en el depósito municipal. Quizás puedan llevárselas por el morro, pero habrá que enfrentarse al troll del depósito.
 
 \salto
 
-### Águilas gigantes
+### Con águilas gigantes es más fácil
 * **Águilas gigantes (DA 5/200 mo)** 
 * **Troll guardián del depósito municipal (6/2/0)** no puede cogérsele por sorpresa en el depósito.
 
@@ -67,7 +69,7 @@ A la entrada de una de las tabernas de peor reputación de la ciudad hay un corc
 
 Al mirar al este veis que la puerta de la taberna se abre y entre el humo de la hierba de pipa de los medianos sale un viejo barbudo en bata de boatine que porta un báculo.
 
-### El Istari
+### El mago fumeta
 * **Corcel élfico (DA 5/800 mo)** El viejo mago tiene montones de multas sin pagar atrasadas y con muchos recargos.
 * **Viejo mago barbudo (3/5/6).** Solo sabe lanzar hechizos de luz con su báculo. En vez de lanzar hechizos y contrahechizos puede usar Magia para lanzar Luz y distraer a sus oponentes. Luz funciona como Hablar pero usando Magia. Debes sostener un bolígrafo o lápiz en tu mano y decir alguna tontería como "No puedes pasar". Si dejas de hacerlo, se rompe el hechizo.
 
@@ -87,7 +89,7 @@ xxx
 Little Barovia, el barrio baroviano de la ciudad, siempre está cubierto de una espesa niebla. Sus gentes son hurañas y desconfiadas y siempre hay violinistes tocando tristes tonadas, pero es un buen sitio para cazar carruajes góticos de cazavampires mal estacionados.
 
 La cocina baroviana peca de usar mucho ajo y hay que pasar una tirada de Fortaleza para poder probar las delicias culinarias locales. Conseguirán de esta forma un horrible aliento a ajo.
-
+98
 El aliento de ajo permite una nueva acción contra vampires, **Echar el aliento**. Si echas tu aliento de ajo (tirada de Maña con éxito) a un vampire, este pierde 2 puntos en todos sus atributos hasta tu siguiente turno. Los negativos no se acumulan. Si hay varios alientos, solo alargan la duración.
 
 Bien entrada la noche un carruaje negro se moverá por sus calles y se parará cerca del colegio mayor de chiques.
@@ -100,9 +102,9 @@ Si revisan el carruaje, los caballos zombies que tiran de él no llevan pañal. 
 * **Conde vampiro con extraño acento (6/5/6)** En vez de Hablar puede usar su Mirada Hipnótica y usar Magia en vez de fortaleza. Debes señalar con una de tus manos a tus objetivos. Si dejas de hacerlo, se rompe la hipnosis.
 * **Conductore (2/3/1)**
 
-\salto
-
 Si consiguen llevarse el carruaje, amanecerá y el conde vampiro verá horrorizado que va a morir por no tener ningún sitio donde guarecerse de la luz solar.
+
+\salto
 
 Pueden negociar con él alguna compensación o dejarle morir por alergia a los rayos UVA. En ese caso, la niebla desaparecerá y la gente de Little Barovia saldrá a cantar y bailar para celebrar la muerte del vampiro.
 
@@ -111,8 +113,6 @@ Pueden negociar con él alguna compensación o dejarle morir por alergia a los r
 La noche de Saturnalia todes les gruistes se lanzan a la caza de una presa de gran valor, el carro de Papa Noel.
 
 xxx
-
-\salto
 
 ## El aparcamiento
 
@@ -123,3 +123,5 @@ El problema es que nadie ha avisado a sus anteriores habitantes de la nueva orde
 Les empleades de obras públicas encargades del acondicionamiento de la mazmorra han pintado unas rayas en el suelo y pista, así que las trampas también están activas.
 
 xxx
+
+\salto
